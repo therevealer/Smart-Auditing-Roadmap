@@ -1,2 +1,2 @@
 # Smart-Contract-Dev-Roadmap
-This is my plan to Learn smart contract development and security in 2024
+This plan is to become a smart contract auditor/hacker, but I have to go through a process that includes learning frontend engineering and getting a Job as a smart contract developer.

@@ -8,3 +8,5 @@ This plan is to become a smart contract auditor/hacker in 2024, but I have to go
 4. Learn ReactJs.
 5. Learn Solidity In-depth.
 6. Start a Blog on Smart-Contract Dev & Security.
+
+## Learning Plan

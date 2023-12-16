@@ -1,4 +1,4 @@
-# Smart-Contract-Dev-Plan
+# Smart-Contract-Engineer-Plan
 This plan is to become a smart contract auditor/hacker in 2024, but I have to go through a process that includes learning frontend engineering and getting a Job as a smart contract developer.
 
 ## Goal

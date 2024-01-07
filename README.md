@@ -1,12 +1,16 @@
 # My Smart-Contract Auditor & Engineer Plan
 This plan is to become a smart contract auditor & engineer in 2024.
 
-## Goal
+## Steps
 1. Learn Data structures with Javascript.
-2. Learn TailwindCSS.
-3. Build Javascript Projects.
-4. Learn ReactJs.
-5. Learn Solidity In-depth.
-6. Start a Blog on Smart-Contract Dev & Security.
+2. Write blogs about Javascript Data structures.
+3. Learn about the EVM.
+4. Practice Solidity In-depth
+    - Solve CTFs
+    - Become familiar with the most used smart contracts.      
+5. Write blogs about my learnings.
+6. Learn finance basics
+7. Get real-world experience
+    - Participate in bug bounties and audit contests.
 
 ## Learning Plan

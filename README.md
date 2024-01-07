@@ -14,3 +14,4 @@ This plan is to become a smart contract auditor & engineer in 2024.
     - Participate in bug bounties and audit contests.
 
 ## Learning Plan
+> Aim to have “real-life security experience” as fast as possible, be it in audit contests or bug bounties.

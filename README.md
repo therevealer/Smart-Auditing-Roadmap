@@ -4,10 +4,10 @@ This plan is to become a smart contract auditor & engineer in 2024.
 ## Steps
 1. Learn about the EVM.
 2. Practice Solidity In-depth
-    - Solve CTFs
-    - Become familiar with the most used smart contracts.      
-3. Write blogs about my learnings.
-4. Learn finance basics
+3. Solve CTFs
+4. Become familiar with the most used smart contracts.      
+5. Write blogs about my learnings.
+6. Learn finance basics
 ?. Get real-world experience
     - Participate in bug bounties and audit contests.
 

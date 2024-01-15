@@ -5,7 +5,7 @@ This plan is to become a smart contract auditor & engineer in 2024.
 1. Practice solidity in-depth - InProgress 🎯
 2. Learn about the EVM
 3. Understand common smart contract standards and proposals(ERCs and EIPs).
-4. Become familiar with the most used smart contracts.
+4. Become familiar with the most used smart contracts eg Uniswap, Chainlink.
 5. Smart Contract security best practices and common vulnerabilities.
 6. Solve CTFs
 7. Defi deep dive & and common vulnerabilities.

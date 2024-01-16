@@ -31,6 +31,6 @@ This plan is to become a smart contract auditor & engineer in 2024.
 ## Resources
 1. [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) by Immunefi.
 2. [A year of competitive audits](https://milotruck.github.io//blog/A-year-of-Competitive-Audits/#2022-the-beginning) by milotruck
-3. Mastering Ethereum chapters 1, 2, 3, 4, 5, 6, 13, and 14.
+3. Solidity projects - [100DaysOfSolidity](https://medium.com/@solidity101/100daysofsolidity-building-an-ethereum-wallet-the-secure-path-to-ether-storage-9af36e071032)
 4. [Security best practices](https://consensys.github.io/smart-contract-best-practices/?source=post_page-----4f34b33c6e8b--------------------------------)
 5. Secureum & smart contract programmer.

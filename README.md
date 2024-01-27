@@ -82,3 +82,4 @@ Develop a content platform where users can offer and subscribe to premium conten
 3. Solidity projects - [100DaysOfSolidity](https://medium.com/@solidity101/100daysofsolidity-building-an-ethereum-wallet-the-secure-path-to-ether-storage-9af36e071032)
 4. [Security best practices](https://consensys.github.io/smart-contract-best-practices/?source=post_page-----4f34b33c6e8b--------------------------------)
 5. Secureum & smart contract programmer.
+6. [Learn EVM in depth #1. The EVM bytecode and environment](https://medium.com/coinmonks/learn-evm-in-depth-1-the-evm-bytecode-and-environment-b751c431f020).

@@ -31,50 +31,30 @@ This plan is to become a smart contract auditor & engineer in 2024.
 ## Learning Solidity In-depth - Original Project Ideas
 1. Decentralized Voting System :
 Create a decentralized voting system where users can cast votes on various proposals. Ensure transparency and security through blockchain technology.
-Tokenization Platform:
 
-2. Tokenization Platform :
-Build a platform for tokenizing assets, such as real estate, art, or other physical assets. Users should be able to create, buy, and trade tokenized assets.
-Decentralized Finance (DeFi) Protocol:
+2. Decentralized Finance (DeFi) Protocol:
+Develop a simple DeFi protocol like a decentralized lending or borrowing platform. Implement features like creating loans, earning interest, and handling collateral.
 
-3. Defi Protocol :
-Develop a simple DeFi protocol, such as a decentralized lending or borrowing platform. Implement features like creating loans, earning interest, and handling collateral.
-Non-Fungible Token (NFT) Marketplace:
-
-4. NFT MarketPlace :
+3. Non-Fungible Token (NFT) Marketplace:
 Create an NFT marketplace where users can mint, buy, and sell NFTs. Consider adding features like auctions, royalties, and categorization.
-Supply Chain Management:
 
-5. Supply chain management :
+4. Supply chain management :
 Implement a blockchain-based supply chain management system. Use smart contracts to trace the origin and journey of products through the supply chain.
-Decentralized Identity Management:
 
-6. Decentralized identity :
-Build a decentralized identity management system where users control their personal data. Explore concepts like self-sovereign identity.
-Escrow Service:
+5. Escrow Service:
+Develop a decentralized escrow service for secure transactions. Users can lock funds in escrow, and the release is contingent on predefined conditions
 
-7. Escrow :
-Develop a decentralized escrow service for secure transactions. Users can lock funds in escrow, and the release is contingent on predefined conditions.
-Blockchain-based Game:
-
-8. Gaming :
-Create a simple blockchain-based game where in-game assets are represented as tokens on the blockchain. Consider integrating NFTs for unique in-game items.
-Charity Donation Platform:
-
-9. Donation Platform :
-Build a transparent charity donation platform where users can donate funds to charitable causes. Use blockchain to ensure transparency in fund allocation.
-Decentralized Autonomous Organization (DAO):
-
-10. DAO :
+6. Decentralized Autonomous Organization (DAO):
 Implement a DAO where members can vote on proposals to make decisions collectively. Explore features like staking, voting weights, and proposal creation.
-Decentralized Messaging App:
 
-11. Decentralized Messaging :
-Create a decentralized messaging application where messages are stored on a blockchain for security and privacy. Implement end-to-end encryption.
-Subscription-based Content Platform:
+## Learning The EVM.
+1. Read Noxx and Andreas EVM Deep dives.
+2. Watch Peter Robinson - Solidity to Bytecode, Memory & Storage By Ethereum Engineering.
+3. Understand Ethereum Smart Contract Storage.
+4. Check out EVM Codes - EVM Playground for Opcodes.
+5. Practice with EVM Puzzles
+6. Marek Kirejczyk - Ethereum Under The Hood
 
-12. Decentralized Content :
-Develop a content platform where users can offer and subscribe to premium content using cryptocurrency. Smart contracts handle subscription payments and content access.
 
 ## Resources
 1. [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) by Immunefi.

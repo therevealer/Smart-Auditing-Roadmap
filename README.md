@@ -29,6 +29,8 @@ This plan is to become a smart contract auditor & engineer in 2024.
 * Track your results.
 
 ## Learning Solidity In-depth - Original Project Ideas
+### * Read Solidity Docs
+
 1. Decentralized Voting System :
 Create a decentralized voting system where users can cast votes on various proposals. Ensure transparency and security through blockchain technology.
 

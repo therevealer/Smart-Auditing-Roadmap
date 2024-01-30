@@ -29,6 +29,8 @@ This plan is to become a smart contract auditor & engineer in 2024.
 * Track your results.
 
 ## Learning Solidity In-depth - Original Project Ideas
+To be a great Solidity dev one must have a deep understanding of the EVM.
+
 ### * Read Solidity Docs
 
 1. Decentralized Voting System :

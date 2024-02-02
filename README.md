@@ -1,5 +1,5 @@
 # My Smart-Contract Auditor & Engineer Plan
-This plan is to become a smart contract auditor & engineer in 2024.
+This plan is to become a smart contract auditor in 2024.
 
 ## Steps
 1. Practice solidity by building Projects - InProgress 🎯

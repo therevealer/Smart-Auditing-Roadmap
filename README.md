@@ -2,18 +2,17 @@
 This plan is to become a smart contract auditor in 2024.
 
 ## Steps
-1. Practice solidity by building Projects - InProgress 🎯
-2. Learn about the EVM - InProgress 🎯
-3. Understand common smart contract standards and proposals(ERCs and EIPs).
-4. Become familiar with the most used smart contracts eg Uniswap, Chainlink.
-5. Smart Contract security best practices and common vulnerabilities.
-6. Solve CTFs
-7. Defi deep dive & and common vulnerabilities.
-8. Report Reading
-9. Get real-world experience
+1. Learn about the EVM - ✅
+2. Practice solidity by building Projects and Reading Codebases - Inprogress 🎯
+3. Read and understand the most used Defi/Blockchain protocols eg. (Uniswap, and Chainlink).
+4. Smart Contract security best practices and common vulnerabilities.
+5. Solve CTFs
+6. Report Reading
+7. Get real-world experience in auditing
 
 ## Bootcamps
 * Take Cyfrin smart contract security course.
+* Take Guardian audits Playlist.
    
 
 ## Tips
@@ -29,7 +28,7 @@ This plan is to become a smart contract auditor in 2024.
 * Track your results.
 
 ## Learning Solidity In-depth - Original Project Ideas
-To be a great Solidity dev one must have a deep understanding of the EVM.
+To be a great Solidity dev, one must deeply understand the EVM.
 
 ### * Read Solidity Docs
 
@@ -52,8 +51,8 @@ Develop a decentralized escrow service for secure transactions. Users can lock f
 Implement a DAO where members can vote on proposals to make decisions collectively. Explore features like staking, voting weights, and proposal creation.
 
 ## Learning The EVM.
-1. Read Noxx and Andreas EVM Deep dives.
-2. Watch Peter Robinson - Solidity to Bytecode, Memory & Storage By Ethereum Engineering.
+1. Read Noxx and Andreas EVM Deep dives ✅
+2. Watch Peter Robinson - Solidity to Bytecode, Memory & Storage By Ethereum Engineering ✅
 3. Understand Ethereum Smart Contract Storage.
 4. Check out EVM Codes - EVM Playground for Opcodes.
 5. Practice with EVM Puzzles

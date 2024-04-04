@@ -8,9 +8,10 @@
 
 
 ## Resources
-1. [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) by Immunefi.
-2. [A year of competitive audits](https://milotruck.github.io//blog/A-year-of-Competitive-Audits/#2022-the-beginning) by milotruck
-3. Solidity projects - [100DaysOfSolidity](https://medium.com/@solidity101/100daysofsolidity-building-an-ethereum-wallet-the-secure-path-to-ether-storage-9af36e071032)
-4. [Security best practices](https://consensys.github.io/smart-contract-best-practices/?source=post_page-----4f34b33c6e8b--------------------------------)
-5. Secureum & smart contract programmer.
-6. [Learn EVM in depth #1. The EVM bytecode and environment](https://medium.com/coinmonks/learn-evm-in-depth-1-the-evm-bytecode-and-environment-b751c431f020).
+1. [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) by Immunefi. ✅
+2. [A year of competitive audits](https://milotruck.github.io//blog/A-year-of-Competitive-Audits/#2022-the-beginning) by milotruck. ✅
+
+
+
+## Resourceful Twitter Threads
+[Smart contracts as state machines](https://x.com/dannygfromnyc/status/1653746298548555776?s=20) by Dan of Guardian Audits

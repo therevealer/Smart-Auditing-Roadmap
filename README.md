@@ -6,9 +6,10 @@ This plan is to become a smart contract auditor in 2024.
 2. Practice solidity by building Projects and Reading Codebases - Inprogress 🎯
 3. Read and understand the most used Defi/Blockchain protocols eg. (Uniswap, and Chainlink).
 4. Smart Contract security best practices and common vulnerabilities.
-5. Solve CTFs
-6. Report Reading
-7. Get real-world experience in auditing
+5. Study Past Exploits.
+6. Solve CTFs
+7. Report Reading
+8. Get real-world experience in auditing
 
 ## Bootcamps
 * Take Cyfrin smart contract security course.

@@ -3,7 +3,7 @@ This plan is to become a smart contract auditor in 2024.
 
 ## Steps
 1. Learn about the EVM - ✅
-2. Practice solidity by building Projects and Reading Codebases - Inprogress 🎯
+2. Learn how to fuzz - 
 3. Read and understand the most used Defi/Blockchain protocols eg. (Uniswap, and Chainlink).
 4. Smart Contract security best practices and common vulnerabilities.
 5. Study Past Exploits.
